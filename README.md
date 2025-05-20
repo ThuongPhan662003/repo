@@ -35,8 +35,8 @@ Mục tiêu là xây dựng kho dữ liệu các đặc trưng học tập (đi�
 ## 5. Một số hình ảnh minh hoạ
 
 ![Hình 14: Phân bố chuyên ngành]![Alt text](./images/image.png)
-![Hình 38: So sánh mô hình]![Alt text](.images/image1.png)
-![Hình 42: Giao diện dự đoán]![Alt text](.images/image2.png)
+![Hình 38: So sánh mô hình]![Alt text](./images/image1.png)
+![Hình 42: Giao diện dự đoán]![Alt text](./images/image2.png)
 
 ## 6. Kết luận
 
